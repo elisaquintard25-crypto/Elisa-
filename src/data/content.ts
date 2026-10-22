@@ -5,13 +5,13 @@ export const USER_INFO = {
   title: 'Barmaid Freelance · Brand Ambassador · Brand Consulting',
   email: 'contact.lh@gmail.com',
   location: 'Paris & Déplacements France / International',
-  portraitUrl: '/src/assets/images/regenerated_image_1792679294022.png',
+  portraitUrl: '/assets/images/regenerated_image_1792679294022.png',
   brandLogo: '/assets/aistudio/logo_transparent.png',
   brandLogoWhite: '/assets/aistudio/logo_transparent_white.png',
   heroImages: {
-    cocktail: '/src/assets/images/cocktail_signature_craft_1792675501803.jpg',
-    masterclass: '/src/assets/images/masterclass_spirits_ritual_1792675517815.jpg',
-    brandActivation: '/src/assets/images/brand_activation_ambassador_1792675533261.jpg',
+    cocktail: '/assets/images/cocktail_signature_craft_1792675501803.jpg',
+    masterclass: '/assets/images/masterclass_spirits_ritual_1792675517815.jpg',
+    brandActivation: '/assets/images/brand_activation_ambassador_1792675533261.jpg',
   },
   bio: "Passionnée par l’art de la mixologie depuis mes 18 ans, j’ai façonnée mon savoir-faire au coeur des institutions les plus emblématiques. De l’énergie créative de Bonnie Bar à l’excellence du Bar Bisou, classé parmi les meilleurs au monde, mon parcours est guidé par une quête constante d’équilibre et d’émotion. Aujourd’hui indépendante, je mets mon coeur et mon expertise au service de vos projets pour transformer chaque dégustation en un moment d’exception."
 };
@@ -36,7 +36,7 @@ export const SERVICES: ServiceItem[] = [
       'Service élégant et interactif tout au long de la soirée'
     ],
     highlight: 'Gestion intégrale de A à Z : vous profitez pleinement de vos convives.',
-    image: '/src/assets/images/cocktail_signature_craft_1792675501803.jpg'
+    image: '/assets/images/cocktail_signature_craft_1792675501803.jpg'
   },
   {
     id: 'brand-activation',
@@ -78,7 +78,7 @@ export const SERVICES: ServiceItem[] = [
       'Format modulable de 6 à 50 personnes (en français ou anglais)'
     ],
     highlight: 'Un voyage gustatif inoubliable mêlant rigueur technique et convivialité.',
-    image: '/src/assets/images/masterclass_spirits_ritual_1792675517815.jpg'
+    image: '/assets/images/masterclass_spirits_ritual_1792675517815.jpg'
   }
 ];
 
@@ -94,7 +94,7 @@ export const SIGNATURE_COCKTAILS: CocktailCreation[] = [
     glassware: 'Coupe en cristal vintage',
     garnish: 'Bouton de rose sauvage & zeste de pamplemousse givré',
     story: 'Inspiré de l’excellence créative du Bar Bisou : une création sans compromis sur la finesse et l’élégance végétale.',
-    image: '/src/assets/images/cocktail_signature_craft_1792675501803.jpg'
+    image: '/assets/images/cocktail_signature_craft_1792675501803.jpg'
   },
   {
     id: 'bonnie-glow',
@@ -107,7 +107,7 @@ export const SIGNATURE_COCKTAILS: CocktailCreation[] = [
     glassware: 'Old Fashioned lourd à facettes',
     garnish: 'Glaçon cristal estampillé & branche de romarin toastée',
     story: 'Écho vibrant à l’énergie des soirées parisiennes au Bonnie Bar, où le cocktail devient un bijou crépusculaire.',
-    image: '/src/assets/images/masterclass_spirits_ritual_1792675517815.jpg'
+    image: '/assets/images/masterclass_spirits_ritual_1792675517815.jpg'
   },
   {
     id: 'or-vegetal',
@@ -120,7 +120,7 @@ export const SIGNATURE_COCKTAILS: CocktailCreation[] = [
     glassware: 'Verre Nick & Nora bordé d’or',
     garnish: 'Bordure de sel fumé & feuille de sauge cristallisée',
     story: 'Une recherche obsessionnelle de l’équilibre entre minéralité fumée et acidité gastronomique.',
-    image: '/src/assets/images/brand_activation_ambassador_1792675533261.jpg'
+    image: '/assets/images/brand_activation_ambassador_1792675533261.jpg'
   },
   {
     id: 'elixir-botanique',
@@ -133,7 +133,7 @@ export const SIGNATURE_COCKTAILS: CocktailCreation[] = [
     glassware: 'Highball cannelé sur glace pure taillée',
     garnish: 'Ruban de concombre marin au poivre de Sichuan',
     story: 'Pour que l’abstinence d’alcool rime avec haute gastronomie et émotion sensorielle absolue.',
-    image: '/src/assets/images/cocktail_signature_craft_1792675501803.jpg'
+    image: '/assets/images/cocktail_signature_craft_1792675501803.jpg'
   }
 ];
 

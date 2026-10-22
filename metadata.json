@@ -2,5 +2,7 @@
   "name": "Barmaid Freelance & Brand Consulting",
   "description": "Portfolio haut de gamme et services de mixologie sur mesure, brand ambassador et masterclasses spiritueux.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
